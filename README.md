@@ -1,0 +1,1 @@
+This code helps to get data from GPS in Arduino and then communicates it with Nodemcu.
